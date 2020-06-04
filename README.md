@@ -20,4 +20,4 @@ Node Red Dashboard Link : https://intelligent-customer-help-desk-with-smart-docu
 
 Watson Assistant Preview link : https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=48fecac9-82a4-49e5-8926-75f958f006d6&serviceInstanceID=34ec329a-3e6c-4fbc-b795-327a38710f27
 
-Youtube Link : https://youtu.be/J1deOmU-UtY
+Youtube Link : https://www.youtube.com/watch?v=XKiRmucFJjs&t=1s
